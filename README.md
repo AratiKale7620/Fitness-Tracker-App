@@ -1,6 +1,6 @@
 🏋️ Fitness Tracker App
 
-Project Description : 
+📌 Project Description :
 
     A simple and responsive web-based Fitness Tracker built using HTML, CSS, and JavaScript. It allows users to track daily fitness activities such as workouts, runs, and calorie intake. 
     The app stores entries locally in the browser using localStorage.
@@ -18,11 +18,11 @@ Project Description :
     📱 Fully responsive design (mobile-friendly)
 
     🎨 Clean and modern UI with gradient background
+    
 
+🚀 Technologies Used :
 
-🛠️ Tech Stack
-
-    HTML5
+    HTML
 
     CSS3 (with linear gradients and media queries)
 
@@ -30,7 +30,18 @@ Project Description :
 
     LocalStorage API
 
-📷 Screenshots 
+🔧 How to Run the Project :
+          
+    Clone the repository
+    
+    https://github.com/AratiKale7620/Fitness-Tracker-App.git
+    
+    
+    
+🙋‍♂️ Author
+
+    Arati Subhash kale
+    GitHub | LinkedIn
 
 
 
